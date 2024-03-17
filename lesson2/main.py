@@ -1,4 +1,4 @@
-from cat import cat
-marta = cat("Marta", "1.3")
-for cat in cat:
+from cat import Cat
+marta = Cat("Marta", "1.3")
+for cat in Cat:
     print(cat)
